@@ -6,6 +6,11 @@ A caret: ^
 [
 The @ symbol
 ]
+> > 
+
+<< > 
+
+<
 
 A backslash \ and a forward slash / 
 
